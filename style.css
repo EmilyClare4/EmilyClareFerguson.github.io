@@ -361,6 +361,7 @@ section:last-child {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	display: none;
 }
 .modal-content {
 	width: 500px;
