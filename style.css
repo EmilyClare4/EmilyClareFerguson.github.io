@@ -353,7 +353,7 @@ section:last-child {
 	animation-delay: 0, 2.5s;
 }
 	
-.bg-modal {
+/*.bg-modal {
 	background-color: rgba(0, 0, 0, 0.8);
 	width: 100%;
 	height: 100%;
@@ -364,7 +364,7 @@ section:last-child {
 	align-items: center;
 }
 
-.modal-contents {
+/*.modal-contents {
 	height: 300px;
 	width: 500px;
 	background-color: white;
@@ -392,6 +392,6 @@ input {
 	cursor: pointer;
 	&:hover {
 		color: #666;
-}
+}*/
 }
 
